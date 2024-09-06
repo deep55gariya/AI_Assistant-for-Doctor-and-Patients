@@ -1,4 +1,3 @@
-streamlit 
-pathlab
-google.generativeai
-api_key
+streamlit==1.23.1
+google-generativeai==0.1.0
+
