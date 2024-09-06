@@ -1,0 +1,4 @@
+streamlit 
+pathlab
+google.generativeai
+api_key
