@@ -1,3 +1,4 @@
-streamlit==1.23.1
-google-generativeai==0.1.0
+streamlit==1.25.0  # Streamlit for building the app
+google-generativeai==1.0.0  # For Google Gemini API
+Pillow==9.0.1  # For handling images (PIL)
 
